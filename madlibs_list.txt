@@ -3,12 +3,12 @@
 3. remote
 4. maroon
 5. august
-6. 8
-7. Noun (Plural)
-8. Noun (Plural)
-9. Noun
-10. Room Name
-11. Liquid
+6. 10
+7. children
+8. books
+9. tree
+10. study room
+11. water
 12. Adjective
 13. Material
 14. Activity
