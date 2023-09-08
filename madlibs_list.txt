@@ -3,7 +3,7 @@
 3. remote
 4. maroon
 5. august
-6. 10
+6. 8
 7. children
 8. books
 9. tree
